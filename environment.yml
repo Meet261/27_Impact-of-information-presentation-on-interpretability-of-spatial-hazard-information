@@ -1,0 +1,16 @@
+name: avalanche_safety_analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.2
+  - r-glmmtmb
+  - r-car
+  - r-effects
+  - r-emmeans
+  - r-performance
+  - r-mumin
+  - r-dharma
+  - r-tidyverse
+  - r-knitr
+  - r-rmarkdown
